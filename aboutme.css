@@ -1,0 +1,66 @@
+    * {
+    }
+
+    body {
+        font-family: 'Poppins', sans-serif;
+        background-color: #f4f4f4;
+    }
+
+    .container {
+        padding: 0 auto;
+    }
+
+    .hero {
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 150vh;
+        background-color: #800000;
+        border-top: 2px solid black;
+        color: #fff;
+    }
+    p{
+        padding: 0px 4rem;
+    }
+
+    .profile-pic {
+        position: absolute;
+        top: 20%;
+        transform: translateY(-50%);
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        border: 5px solid #fff;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    }
+
+    .hero-content {
+        text-align: center;
+        z-index: 1;
+    }
+
+
+    p {
+        font-size: 18px;
+    }
+
+    a {
+        color: #fff;
+        text-decoration: none;
+    }
+
+    .cta {
+        display: inline-block;
+        padding: 12px 24px;
+        background-color: #333;
+        border-radius: 4px;
+        transition: background-color 0.3s ease-in-out;
+    }
+
+    .cta:hover {
+        background-color: #555;
+    }
+    .topme{
+        padding-top: 2rem;
+    }
