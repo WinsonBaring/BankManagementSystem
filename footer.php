@@ -1,6 +1,4 @@
-<?php
-<div>
-Winson Baring BSCS -2 F1
-</div> 
-?>
-<?php?>
+
+    <<div style='background-color:#80000'>
+        <center><?php echo 'Winson Baring BSCS - 2 F1'?><center>
+    </div>>

@@ -144,5 +144,6 @@ if (isset($_POST['register'])) {
         <button type="submit" name="register">Register</button>
     </form>
 </body>
+
 </html>
 

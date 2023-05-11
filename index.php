@@ -63,7 +63,11 @@
 ?>
 <body>
 <div class="img">
+
 </div>
 </body >
-<!-- <?php require_once 'includes/footer.php'; ?> -->
+
 </html>
+<?php 
+    require_once 'footer.php'; 
+?>
