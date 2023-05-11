@@ -54,11 +54,8 @@
         <h1><?php echo $title; ?></h1>
         <nav>
             <ul>
-                <li><a href="index.php">Home</a></li>
-                <li><a href="dashboard.php">Dashboard</a></li>
-                <li><a href="aboutme.php">About Me</a></li>
-                
-                <li><a href="logout.php">Log out</a></li>
+                <li><a href="userregister.php">Register</a></li>
+                <li><a href="login.php">Login</a></li>
             </ul>
         </nav>
     </header>

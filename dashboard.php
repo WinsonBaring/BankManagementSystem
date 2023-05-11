@@ -53,8 +53,12 @@
     <div class="buttons-container">
         <button > <a href="registeraccount.php"class="btn btn-maroon">Add New Record for Account</a></button>
         <button > <a href="registeruser.php"class="btn btn-maroon">Add New Record for Users</a></button>
+
         <button > <a href="viewaccount.php"class="btn btn-maroon">View Records of Accounts</a></button>
         <button > <a href="viewuser.php"class="btn btn-maroon">View Records of Users</a></button>
+        
+        <button > <a href="registeruseredit.php"class="btn btn-maroon">Edit Records of Users</a></button>
+        <button > <a href="registeraccountedit.php"class="btn btn-maroon">Edit Records of Accounts</a></button>
     </div>
 <?php 
     $title = 'dashboard';
